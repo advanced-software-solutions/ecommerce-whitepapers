@@ -12,3 +12,12 @@ Local Network Protocol is a network definition that is restricted to a certain g
 
 The goal is not to limit the application execution to the public internet. Instead we can allow the application to be safely executed and communicate within a restricted network that is under a country and will not expose the local user to the public internet or have it's data exchanged in the public internet for better performance and better privacy and security.
 
+**Contact:** Advanced Software Solutions
+
+**Email:** info[at]advancedsoftware.io
+
+**Website:** https://advancedsoftware.io
+
+---
+
+*This document is a draft. Comments and feedback are welcome.*

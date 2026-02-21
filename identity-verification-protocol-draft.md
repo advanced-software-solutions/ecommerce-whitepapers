@@ -33,7 +33,9 @@ This paper is trying to expand authentication and verification and provide a rob
 
 
 **Contact:** Advanced Software Solutions
+
 **Email:** info[at]advancedsoftware.io
+
 **Website:** https://advancedsoftware.io
 
 ---
